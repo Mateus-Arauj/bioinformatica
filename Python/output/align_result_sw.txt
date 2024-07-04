@@ -1,0 +1,6 @@
+Smith-Waterman: 
+RYL | 
+RYL | 
+Score do alinhamento: 3
+Número de gaps: 0
+

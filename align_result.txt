@@ -1,0 +1,12 @@
+Needleman-Wunsch: 
+-----MGLYRIRVSTGASLYAG--SNNQVQLWLV-GQHGEAALGTRLWPARGKETEFKV-EVPEYLGPLLFVK-----L--RKRHL--
+LKDDAWFCNWISV-QG--PGAGDEVRFPCYRW-VEG-NG--VL--SL-P-EG--TGRTVGEDP--QG--LFQKHREEELEER-RKLYR
+Score do alinhamento: -38
+Número de gaps: 36
+
+Smith-Waterman: 
+RYL | 
+RYL | 
+Score do alinhamento: 3
+Número de gaps: 0
+
